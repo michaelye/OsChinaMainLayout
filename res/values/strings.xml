@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">DemoMainLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="frame_title_news_lastest">最新资讯</string>
+    <string name="frame_title_news_blog">最新博客</string>
+    <string name="frame_title_news_recommend">推荐阅读</string>
+    <string name="frame_title_question_ask">问答</string>
+    <string name="frame_title_question_share">分享</string>
+    <string name="frame_title_question_other">综合</string>
+    <string name="frame_title_question_job">职业</string>
+    <string name="frame_title_question_site">站务</string>
+    <string name="frame_title_tweet_lastest">最新动弹</string>
+    <string name="frame_title_tweet_hot">热门动弹</string>
+    <string name="frame_title_tweet_my">我的动弹</string>
+    <string name="frame_title_tweet_send">动弹一下</string>
+    <string name="frame_title_active_lastest">最新动态</string>
+    <string name="frame_title_active_atme">我</string>
+    <string name="frame_title_active_comment">评论</string>
+    <string name="frame_title_active_myself">我自己</string>
+    <string name="frame_title_active_message">留言</string>
+    
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    
+</resources>
